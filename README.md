@@ -46,7 +46,7 @@ loop, evaluation, and visualizations.
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mnist-01-pytorch.git
+git clone https://github.com/alexshklyarov/mnist-01-pytorch.git
 cd mnist-01-pytorch
 pip install torch torchvision numpy matplotlib
 jupyter notebook mnist.ipynb
