@@ -35,15 +35,15 @@ loop, evaluation, and visualizations.
 ### Learned weight templates of the 16 hidden neurons
 Some neurons specialize into ring-shaped "0 detectors", others into vertical-stroke "1 detectors" — learned purely from gradient descent.
 
-![Weight templates](weight_templates.png)
+![Weight templates](images/weight_templates.png)
 
 ### The single misclassified image
 A malformed, heavily slanted 0 that resembles a 1.
 
-![Misclassified digit](misclassified.png)
+![Misclassified digit](images/misclassified.png)
 
 ### Training loss curve
-![Loss curve](loss_curve.png)
+![Loss curve](images/loss_curve.png)
 
 ## Architecture
 
